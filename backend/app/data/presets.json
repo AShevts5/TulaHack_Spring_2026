@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Подбор: аналитик (DISC S)",
+    "criteria": {
+      "mode": "hire",
+      "role": "Бизнес-аналитик",
+      "disc": { "D": 10, "I": 15, "S": 55, "C": 20 },
+      "motivation": ["stability", "mastery"],
+      "generation": "millennial",
+      "team_context": "Команда продукта, много стейкхолдеров, нужна выдержка в коммуникации.",
+      "manager_notes": "Важна документация и предсказуемый ритм."
+    }
+  },
+  {
+    "name": "Текущий состав: усилить драйв (DISC D)",
+    "criteria": {
+      "mode": "team",
+      "role": "Тимлид разработки",
+      "disc": { "D": 50, "I": 20, "S": 15, "C": 15 },
+      "motivation": ["autonomy", "impact"],
+      "generation": null,
+      "team_context": "Дедлайн через 3 недели, 2 джуна, не хватает инициативы в разблокировке задач.",
+      "manager_notes": "Хочу меньше микроменеджмента, больше ownerства."
+    }
+  }
+]
